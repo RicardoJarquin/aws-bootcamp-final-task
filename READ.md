@@ -1,0 +1,5 @@
+![PDF page 1](AWS_Fundamentals_Task_Ricardo_Jarquin-1.png)
+![PDF page 2](AWS_Fundamentals_Task_Ricardo_Jarquin-2.png)
+![PDF page 3](AWS_Fundamentals_Task_Ricardo_Jarquin-3.png)
+![PDF page 4](AWS_Fundamentals_Task_Ricardo_Jarquin-4.png)
+![PDF page 5](AWS_Fundamentals_Task_Ricardo_Jarquin-5.png)
